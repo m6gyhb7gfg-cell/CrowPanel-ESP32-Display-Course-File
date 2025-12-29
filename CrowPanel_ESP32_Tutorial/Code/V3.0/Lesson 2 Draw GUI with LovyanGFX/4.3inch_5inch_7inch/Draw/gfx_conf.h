@@ -10,8 +10,8 @@
  * CrowPanel_50 means CrowPanel 5.0inch Board
  * CrowPanel_70 means CrowPanel 7.0inch Board
  ******************************************************************************/
-// #define CrowPanel_70
- #define CrowPanel_50
+ #define CrowPanel_70
+// #define CrowPanel_50
 // #define CrowPanel_43
 
 
